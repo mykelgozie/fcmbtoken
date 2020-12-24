@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "gpWkrRvtco4zDL0Et4mLBFbncBqpZWaBasg9sbZC29qePR629FXpI96oWRtjBdf6KiKoxjqC06fkUOwvJnEf6g==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\MICHAEL NWOSU C\\source\\repos\\FcmbToken\\FcmbToken.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\MICHAEL NWOSU C\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
